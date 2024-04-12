@@ -1,6 +1,6 @@
 <h1 align="center">Olá! Eu sou Letícia Schmitt Rocha</h1>
 
-<h3 align="center">Sou formada em Ciências Contábeis, tenho uma MBA em Customer Experience e agora estou aprendendo programação, iniciando em Java.</h3>
+Sou formada em Ciências Contábeis, tenho uma MBA em Customer Experience e agora estou aprendendo programação. Sou uma entusiasta da programação com conhecimentos básicos em PHP, HTML, CSS e JavaScript. Estou familiarizado com conceitos fundamentais, como loops e manipulação de dados, e tenho experiência em desenvolvimento web, incluindo a criação de estruturas simples de página com HTML e estilização com CSS. Além disso, possuo conhecimentos básicos em Git e GitHub para controle de versão de projetos. Estou empenhada em expandir meus conhecimentos e habilidades nessas áreas, buscando aprender e aprimorar minhas habilidades de forma contínua. Também possuo habilidades em SQL. Estou familiarizado com a linguagem de consulta estruturada para bancos de dados relacionais, o que me permite realizar consultas, inserções, atualizações e exclusões de dados de forma eficiente.
 
 Trabalho no Suporte Técnico do Asaas, no squad de Sucesso de Integrações (API) como Analista de Integrações Júnior.
 
