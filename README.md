@@ -4,6 +4,9 @@ Sou formada em Ciências Contábeis, tenho uma MBA em Customer Experience e agor
 
 Trabalho no Suporte Técnico do Asaas, no squad de Sucesso de Integrações (API) como Analista de Integrações Júnior.
 
+## O que eu estou aprendendo
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=leticiaschmitt&layout=compact&bg_color=000&border_color=ff0000&title_color=E94D5F&text_color=FFF)
+
 ## Conecte-se comigo
 
 ###
