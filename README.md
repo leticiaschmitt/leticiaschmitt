@@ -39,7 +39,7 @@ Sou também **Embaixadora Asaas Partners**, representando e promovendo iniciativ
 
 ## 🛠️ Habilidades em desenvolvimento
 
-- **Linguagens:** Java (favorita!), PHP, JavaScript, HTML, CSS  
+- **Linguagens:** Java, PHP, JavaScript, HTML, CSS  
 - **Banco de dados:** SQL (consultas, inserções, atualizações e exclusões)  
 - **Versionamento:** Git & GitHub  
 - **Desenvolvimento web:** Estruturas simples de página, estilização com CSS  
