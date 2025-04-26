@@ -29,11 +29,9 @@
 
 ## 💡 Sobre mim
 
-Formada em **[Ciências Contábeis (2018)](https://www.crc.org.br/)**, com **[MBA em Customer Experience (2022)](https://mba.insper.edu.br/)**, iniciei minha carreira no mundo financeiro, mas logo me encantei pela **tecnologia** e pela **programação**. Desde então, venho trilhando minha transição para a área tech, com foco especial em **APIs** e **desenvolvimento backend**.
+Formada em **Ciências Contábeis (2018)**, com **MBA em Customer Experience (2022)**, iniciei minha carreira no mundo financeiro, mas logo me encantei pela **tecnologia** e pela **programação**. Desde então, venho trilhando minha transição para a área tech, com foco especial em **APIs** e **desenvolvimento backend**.
 
 Atualmente, atuo como **Analista de Integrações Pleno** no **[Asaas](https://www.asaas.com/)**, no **Squad de Sucesso de Integrações (API)**. Minha missão? **Simplificar integrações, resolver problemas complexos e garantir a melhor experiência para quem usa a nossa API**. 🚀
-
-Sou também **Embaixadora Asaas Partners**, representando e promovendo iniciativas que fortalecem nossa comunidade de parceiros e desenvolvedores.
 
 ---
 
@@ -62,19 +60,11 @@ Sempre buscando aprender **mais e melhor**, com paixão por tudo que envolve **p
 
 ## 📜 Certificações e Cursos
 
-- **MBA em Customer Experience** - Insper (2022)
+- **MBA em Customer Experience** - Conquist (2022)
 - **Dominando a Linguagem de Programação Java** - DIO
 - **Santander Tech+ | Back-End** - Santander & DIO
 - **SQL para Iniciantes** - Alura
 - **Integrações com APIs REST** - Cursos internos no Asaas
-
----
-
-## 🎉 Participações e Eventos
-
-- **Embaixadora Asaas Partners** – promovendo e fortalecendo a comunidade de parceiros e desenvolvedores.
-- **Bate-papo cultural com o CEO da Asaas** – discutindo cultura organizacional, liderança e inovação.
-- Participações em iniciativas internas para **melhoria de processos e cultura colaborativa**.
 
 ---
 
@@ -136,7 +126,7 @@ Sempre buscando aprender **mais e melhor**, com paixão por tudo que envolve **p
 
 ## ⚡ Curiosidades sobre mim
 
-- 🐾 Mãe de **três gatos lindos e gordinhos**!  
+- 🐾 Mãe de **três gatos lindos**!  
 - ❤️ Apaixonada por **APIs** e pelo impacto delas na **experiência do cliente**.  
 - 🌱 Acredito que **aprender nunca tem fim** e que **tecnologia** é uma ferramenta poderosa para transformar vidas!
 
