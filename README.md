@@ -114,7 +114,7 @@ Sempre buscando aprender **mais e melhor**, com paixão por tudo que envolve **p
 
 ## 📊 O que estou aprendendo
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=leticiaschmitt&layout=compact&bg_color=000&border_color=ff0000&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leticiaschmitt&layout=compact&bg_color=000&border_color=ff0000&title_color=E94D5F&text_color=FFF)
 
 ---
 
