@@ -112,9 +112,22 @@ Sempre buscando aprender **mais e melhor**, com paixão por tudo que envolve **p
 
 ---
 
-## 📊 O que estou aprendendo
+## 📈 Minhas Estatísticas no GitHub
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leticiaschmitt&layout=compact&bg_color=000&border_color=ff0000&title_color=E94D5F&text_color=FFF)
+> ⚠️ Os gráficos abaixo mostram apenas atividades públicas.  
+> Minhas contribuições em times privados não estão visíveis aqui, mas fazem parte ativa da minha rotina. 💻
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=leticiaschmitt&show_icons=true&theme=radical&bg_color=000000&title_color=E94D5F&text_color=ffffff&icon_color=FF4500&border_color=ff0000" alt="Estatísticas GitHub" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiaschmitt&layout=compact&bg_color=000000&border_color=ff0000&title_color=E94D5F&text_color=ffffff" alt="Linguagens mais usadas" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=leticiaschmitt&theme=dracula&column=3&no-bg=true&no-frame=true" alt="Troféus GitHub" />
+</p>
 
 ---
 
