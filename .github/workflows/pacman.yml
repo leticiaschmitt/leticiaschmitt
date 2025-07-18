@@ -25,7 +25,11 @@ jobs:
           gif: false
           svg_out_path: dist/pacman-contribution-graph.svg
 
-      - name: Push SVG to output branch
+      - name: Copy ghost gifs to dist
+        run: |
+          cp .github/pacman-assets/*.gif dist/
+
+      - name: Push SVG and gifs to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
