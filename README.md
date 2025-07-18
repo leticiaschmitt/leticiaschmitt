@@ -38,7 +38,10 @@ Atualmente, atuo como **Analista de Integrações Pleno** no **[Asaas](https://w
 
 Sempre buscando aprender **mais e melhor**, com paixão por tudo que envolve **programação, APIs e experiência do cliente**!
 
----
+<p align="center">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/leticiaschmitt/leticiaschmitt/output/pacman-contribution-graph.svg" />
+</p>
+
 <h2 align="center">🧠 My Skills</h2>
 
 <!-- Linguagens de Programação -->
