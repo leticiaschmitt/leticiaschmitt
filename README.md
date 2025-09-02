@@ -54,7 +54,6 @@ Sempre buscando aprender **mais e melhor**, com paixão por tudo que envolve **p
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </p>
 
 <!-- Frameworks e Bibliotecas -->
@@ -64,7 +63,6 @@ Sempre buscando aprender **mais e melhor**, com paixão por tudo que envolve **p
 <p align="left">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Remix-000000?style=for-the-badge&logo=remix&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
@@ -90,7 +88,6 @@ Sempre buscando aprender **mais e melhor**, com paixão por tudo que envolve **p
 <p align="left">
   <img src="https://img.shields.io/badge/APIs-FF4500?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Webhooks-000000?style=for-the-badge&logo=hookdeck&logoColor=white" />
-  <img src="https://img.shields.io/badge/NGROK-1F1F1F?style=for-the-badge&logo=ngrok&logoColor=white" />
   <img src="https://img.shields.io/badge/Databricks-E25A1C?style=for-the-badge&logo=databricks&logoColor=white" />
 </p>
 
