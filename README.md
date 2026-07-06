@@ -114,44 +114,79 @@ Sempre buscando aprender **mais e melhor**, com paixão por tudo que envolve **p
 ## 🚀 Principais projetos
 
 <details>
+  <summary><strong>Easy Finanças ESG API</strong> 💸🌱</summary>
+  <p>
+    API RESTful desenvolvida com <strong>Java</strong> e <strong>Spring Boot</strong> para gerenciamento financeiro sustentável, com foco em organização financeira, segurança, rastreabilidade e princípios ESG.
+  </p>
+  <p>
+    O projeto aplica conceitos de microsserviços, autenticação JWT, integração com banco Oracle, migrations com Flyway, documentação Swagger/OpenAPI e conteinerização com Docker.
+  </p>
+  <p>
+    <strong>Tecnologias:</strong> Java, Spring Boot, Spring Security, JWT, Oracle Database, Flyway, Swagger/OpenAPI, Docker e Docker Compose.
+  </p>
+  <p>
+    <a href="https://github.com/leticiaschmitt/easy-financas-esg-api">🔗 Ver projeto</a>
+  </p>
+</details>
+
+<details>
+  <summary><strong>EcoWater API</strong> 💧</summary>
+  <p>
+    API REST desenvolvida em <strong>ASP.NET Core 8</strong> para monitoramento inteligente do consumo de água, detecção de desperdícios e geração de relatórios ambientais.
+  </p>
+  <p>
+    O projeto foi criado com foco em ESG, especialmente no tema de acesso à água e preservação de recursos naturais, simulando uma solução para residências, condomínios, indústrias e organizações.
+  </p>
+  <p>
+    <strong>Funcionalidades:</strong> gestão de sensores, monitoramento de consumo, detecção automática de vazamentos, alertas de desperdício, relatórios ambientais, JWT Authentication, paginação, testes automatizados, Docker e Swagger.
+  </p>
+  <p>
+    <strong>Tecnologias:</strong> ASP.NET Core 8, C#, Entity Framework Core, SQL Server, JWT, Swagger, xUnit e Docker.
+  </p>
+  <p>
+    <a href="https://github.com/leticiaschmitt/EcoWater-API">🔗 Ver projeto</a>
+  </p>
+</details>
+
+<details>
+  <summary><strong>INOVAGAB</strong> 🚀📱</summary>
+  <p>
+    Aplicativo mobile desenvolvido em <strong>Kotlin</strong> com <strong>Android Studio</strong>, <strong>Jetpack Compose</strong> e <strong>Firebase</strong>, criado como projeto acadêmico para a FIAP.
+  </p>
+  <p>
+    O INOVAGAB é uma plataforma de inovação corporativa que permite cadastro, gerenciamento e acompanhamento de ideias e projetos dentro de uma empresa, promovendo colaboração, inovação e engajamento entre operadores, gestores e lideranças.
+  </p>
+  <p>
+    <strong>Funcionalidades:</strong> login de usuários, cadastro de ideias, cadastro de projetos, dashboard para liderança, ranking de engajamento, diretrizes estratégicas, navegação entre perfis e integração com Firebase.
+  </p>
+  <p>
+    <strong>Tecnologias:</strong> Kotlin, Android Studio, Jetpack Compose, Firebase Authentication, Firebase Firestore, MVVM Architecture e Navigation Compose.
+  </p>
+  <p>
+    <a href="https://github.com/leticiaschmitt/inovagab-android">🔗 Ver projeto</a>
+  </p>
+</details>
+
+<details>
   <summary><strong>API Estacionamento</strong> 🚗</summary>
   <p>
-    API completa para gerenciamento de um estacionamento, com <strong>Spring Boot</strong>, <strong>Spring Security</strong> e <strong>PostgreSQL</strong>.  
+    API para gerenciamento de estacionamento, desenvolvida com <strong>Spring Boot</strong>, <strong>Spring Security</strong> e <strong>PostgreSQL</strong>.
+  </p>
+  <p>
+    O projeto contempla autenticação, controle de usuários, gerenciamento de recursos e boas práticas de desenvolvimento backend com Java.
+  </p>
+  <p>
     <a href="https://github.com/leticiaschmitt/API-Estacionamento">🔗 Ver projeto</a>
   </p>
 </details>
 
-<details>
-  <summary><strong>Desafio Classificador de Nível de Herói</strong> 🛡️</summary>
-  <p>
-    Projeto em <strong>Java</strong> para classificar níveis de heróis com base na quantidade de XP.  
-    <a href="https://github.com/leticiaschmitt/desafio-classificador-de-nivel-de-heroi">🔗 Ver projeto</a>
-  </p>
-</details>
+---
+## 🌱 Projetos de aprendizado
 
-<details>
-  <summary><strong>Aventura do João 🌳🧙‍♂️</strong></summary>
-  <p>
-    História interativa em <strong>JavaScript</strong>, <strong>Java</strong> e <strong>C#</strong>, com decisões que mudam o rumo da história!  
-    <a href="https://github.com/leticiaschmitt/Estruturas-condicionais">🔗 Ver projeto</a>
-  </p>
-</details>
-
-<details>
-  <summary><strong>Testando Várias Linguagens</strong> 💻</summary>
-  <p>
-    Entrada e saída de dados, condicionais e interações em <strong>Java</strong>, <strong>JavaScript</strong>, <strong>C#</strong> e <strong>PHP</strong>.  
-    <a href="https://github.com/leticiaschmitt/Testando-varias-linguagens">🔗 Ver projeto</a>
-  </p>
-</details>
-
-<details>
-  <summary><strong>Apresentando em Diferentes Linguagens</strong> 📣</summary>
-  <p>
-    Pequeno programa que coleta e valida dados do usuário, explorando <strong>JavaScript</strong>, <strong>PHP</strong> e <strong>C#</strong>.  
-    <a href="https://github.com/leticiaschmitt/Apresentando">🔗 Ver projeto</a>
-  </p>
-</details>
+- [Desafio Classificador de Nível de Herói](https://github.com/leticiaschmitt/desafio-classificador-de-nivel-de-heroi)  
+- [Aventura do João](https://github.com/leticiaschmitt/Estruturas-condicionais)  
+- [Testando Várias Linguagens](https://github.com/leticiaschmitt/Testando-varias-linguagens)  
+- [Apresentando em Diferentes Linguagens](https://github.com/leticiaschmitt/Apresentando)
 
 ---
 
