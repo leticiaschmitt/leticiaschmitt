@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=67cb57&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Letícia+Schmitt;I'm+a+Software+Development+student;I’m+a+technology+content+creator;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=67cb57&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Letícia+Schmitt;I'm+a+Software+Development+student;I+work+with+APIs+and+DevRel;Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Letícia Schmitt's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=leticiaschmitt&bg_color=0d1117&color=67cb57&line=67cb57&point=67cb57&area=true&area_color=67cb57&hide_border=true)](https://github.com/arturbomtempo-dev/)
+[![Letícia Schmitt's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=leticiaschmitt&bg_color=0d1117&color=67cb57&line=67cb57&point=67cb57&area=true&area_color=67cb57&hide_border=true)](https://github.com/leticiaschmitt)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=leticiaschmitt&color=ff0000" alt="Profile views" />
@@ -24,23 +24,20 @@
 
 Formada em **Ciências Contábeis (2018)**, com **MBA em Customer Experience (2022)**, iniciei minha carreira no mundo financeiro, mas logo me encantei pela **tecnologia** e pela **programação**. Desde então, venho trilhando minha transição para a área tech, com foco especial em **APIs** e **desenvolvimento backend**.
 
-Atualmente, atuo como **Analista de Integrações Pleno** no **[Asaas](https://www.asaas.com/)**, no **Squad de Sucesso de Integrações (API)**. Minha missão? **Simplificar integrações, resolver problemas complexos e garantir a melhor experiência para quem usa a nossa API**. 🚀
+Atualmente, atuo como **Analista de Integrações Pleno** no **[Asaas](https://www.asaas.com/)**, com atuação em **DevRel**, **APIs**, documentação técnica e suporte a pessoas desenvolvedoras. Minha missão é **aproximar tecnologia, produto e comunidade dev**, simplificando integrações, traduzindo problemas complexos e melhorando a experiência de quem usa a nossa API. 🚀
 
 ---
 
 ## 🛠️ Habilidades em desenvolvimento
 
-- **Linguagens:** Java, PHP, JavaScript, HTML, CSS  
-- **Banco de dados:** SQL (consultas, inserções, atualizações e exclusões)  
+- **Linguagens:** Java, Groovy, JavaScript, TypeScript, PHP, HTML e CSS  
+- **Banco de dados:** SQL para consultas, análise e apoio em diagnósticos técnicos  
 - **Versionamento:** Git & GitHub  
-- **Desenvolvimento web:** Estruturas simples de página, estilização com CSS  
-- **APIs:** Integração, análise e suporte técnico
+- **Backend e APIs:** APIs REST, integrações, webhooks, autenticação, análise de erros e suporte técnico  
+- **Documentação técnica:** criação, revisão e melhoria de conteúdos para pessoas desenvolvedoras  
+- **DevRel:** comunicação técnica, apoio à comunidade dev e tradução de temas complexos de forma acessível
 
 Sempre buscando aprender **mais e melhor**, com paixão por tudo que envolve **programação, APIs e experiência do cliente**!
-
-<p align="center">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/leticiaschmitt/leticiaschmitt/output/pacman-contribution-graph.svg" />
-</p>
 
 <h2 align="center">🧠 My Skills</h2>
 
@@ -58,7 +55,7 @@ Sempre buscando aprender **mais e melhor**, com paixão por tudo que envolve **p
 
 <!-- Frameworks e Bibliotecas -->
 <h3>🚀 Frameworks e bibliotecas que venho explorando</h3>
-<p>Trabalho com frameworks modernos para construção de APIs, microsserviços e interfaces web escaláveis.</p>
+<p>Venho estudando e explorando frameworks modernos para construção de APIs, aplicações backend e interfaces web.</p>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
@@ -119,7 +116,7 @@ Sempre buscando aprender **mais e melhor**, com paixão por tudo que envolve **p
 <details>
   <summary><strong>API Estacionamento</strong> 🚗</summary>
   <p>
-    API completa para gerenciamento de um estacionamento, com **Spring Boot**, **Spring Security** e **PostgreSQL**.  
+    API completa para gerenciamento de um estacionamento, com <strong>Spring Boot</strong>, <strong>Spring Security</strong> e <strong>PostgreSQL</strong>.  
     <a href="https://github.com/leticiaschmitt/API-Estacionamento">🔗 Ver projeto</a>
   </p>
 </details>
@@ -127,7 +124,7 @@ Sempre buscando aprender **mais e melhor**, com paixão por tudo que envolve **p
 <details>
   <summary><strong>Desafio Classificador de Nível de Herói</strong> 🛡️</summary>
   <p>
-    Projeto em **Java** para classificar níveis de heróis com base na quantidade de XP.  
+    Projeto em <strong>Java</strong> para classificar níveis de heróis com base na quantidade de XP.  
     <a href="https://github.com/leticiaschmitt/desafio-classificador-de-nivel-de-heroi">🔗 Ver projeto</a>
   </p>
 </details>
@@ -135,7 +132,7 @@ Sempre buscando aprender **mais e melhor**, com paixão por tudo que envolve **p
 <details>
   <summary><strong>Aventura do João 🌳🧙‍♂️</strong></summary>
   <p>
-    História interativa em **JavaScript**, **Java** e **C#**, com decisões que mudam o rumo da história!  
+    História interativa em <strong>JavaScript</strong>, <strong>Java</strong> e <strong>C#</strong>, com decisões que mudam o rumo da história!  
     <a href="https://github.com/leticiaschmitt/Estruturas-condicionais">🔗 Ver projeto</a>
   </p>
 </details>
@@ -143,7 +140,7 @@ Sempre buscando aprender **mais e melhor**, com paixão por tudo que envolve **p
 <details>
   <summary><strong>Testando Várias Linguagens</strong> 💻</summary>
   <p>
-    Entrada e saída de dados, condicionais e interações em **Java**, **JavaScript**, **C#** e **PHP**.  
+    Entrada e saída de dados, condicionais e interações em <strong>Java</strong>, <strong>JavaScript</strong>, <strong>C#</strong> e <strong>PHP</strong>.  
     <a href="https://github.com/leticiaschmitt/Testando-varias-linguagens">🔗 Ver projeto</a>
   </p>
 </details>
@@ -151,7 +148,7 @@ Sempre buscando aprender **mais e melhor**, com paixão por tudo que envolve **p
 <details>
   <summary><strong>Apresentando em Diferentes Linguagens</strong> 📣</summary>
   <p>
-    Pequeno programa que coleta e valida dados do usuário, explorando **JavaScript**, **PHP** e **C#**.  
+    Pequeno programa que coleta e valida dados do usuário, explorando <strong>JavaScript</strong>, <strong>PHP</strong> e <strong>C#</strong>.  
     <a href="https://github.com/leticiaschmitt/Apresentando">🔗 Ver projeto</a>
   </p>
 </details>
@@ -164,15 +161,19 @@ Sempre buscando aprender **mais e melhor**, com paixão por tudo que envolve **p
 > Minhas contribuições em times privados não estão visíveis aqui, mas fazem parte ativa da minha rotina. 💻
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leticiaschmitt&show_icons=true&theme=radical&bg_color=000000&title_color=E94D5F&text_color=ffffff&icon_color=FF4500&border_color=ff0000" alt="Estatísticas GitHub" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=leticiaschmitt&theme=radical" alt="Estatísticas GitHub" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiaschmitt&layout=compact&bg_color=000000&border_color=ff0000&title_color=E94D5F&text_color=ffffff" alt="Linguagens mais usadas" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leticiaschmitt&theme=radical" alt="Linguagens mais usadas por repositório" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=leticiaschmitt&theme=dracula&column=3&no-bg=true&no-frame=true" alt="Troféus GitHub" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=leticiaschmitt&theme=radical" alt="Linguagens mais usadas em commits" />
+</p>
+
+<p align="center">
+  <img src="https://trophy.benkou.dev/?username=leticiaschmitt&theme=dracula&column=3&no-bg=true&no-frame=true" alt="Troféus GitHub" />
 </p>
 
 <picture>
@@ -180,7 +181,6 @@ Sempre buscando aprender **mais e melhor**, com paixão por tudo que envolve **p
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leticiaschmitt/leticiaschmitt/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/leticiaschmitt/leticiaschmitt/output/pacman-contribution-graph.svg">
 </picture>
-
 
 ---
 
@@ -192,7 +192,7 @@ Sempre buscando aprender **mais e melhor**, com paixão por tudo que envolve **p
 
 ## ⚡ Curiosidades sobre mim
 
-- 🐾 Mãe de **três gatos lindos**!  
+- 🐾 Mãe de **11 gatos lindos**!  
 - ❤️ Apaixonada por **APIs** e pelo impacto delas na **experiência do cliente**.  
 - 🌱 Acredito que **aprender nunca tem fim** e que **tecnologia** é uma ferramenta poderosa para transformar vidas!
 
@@ -203,9 +203,6 @@ Sempre buscando aprender **mais e melhor**, com paixão por tudo que envolve **p
 <p align="left">
   <a href="https://www.instagram.com/leh_schmitt/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram" />
-  </a>
-  <a href="https://discord.com/channels/@leticiarocha_" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord" />
   </a>
   <a href="https://www.linkedin.com/in/leticiarochas/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
