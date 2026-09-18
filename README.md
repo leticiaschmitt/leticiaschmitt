@@ -1,8 +1,8 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=67cb57\&size=32\&center=true\&vCenter=true\&width=1000\&lines=Olá,+meu+nome+é+Letícia+Schmitt+Rocha;Analista+de+Integrações+Pleno;APIs,+Backend,+Documentação+Técnica+e+DevRel;Bem-vindo+ao+meu+GitHub!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=67cb57&size=32&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Letícia+Schmitt+Rocha;Analista+de+Integrações+Pleno;APIs,+Observabilidade,+Documentação+Técnica+e+DevRel;Bem-vindo+ao+meu+GitHub!+:%29)](https://git.io/typing-svg)
 
-### Analista de Integrações Pleno | APIs, Backend, Documentação Técnica e DevRel
+### Analista de Integrações Pleno | APIs, Observabilidade, Documentação Técnica e DevRel
 
 </div>
 
@@ -14,22 +14,35 @@ Sou formada em **Ciências Contábeis**, possuo **MBA em Customer Experience** e
 
 Minha trajetória começou no mercado financeiro, mas foi na tecnologia que encontrei a oportunidade de unir análise, comunicação e resolução de problemas.
 
-Atualmente, atuo como **Analista de Integrações Pleno** no **[Asaas](https://www.asaas.com/)**, trabalhando com **APIs, integrações, documentação técnica, diagnóstico de incidentes e suporte a pessoas desenvolvedoras**.
+Atualmente, atuo no **[Asaas](https://www.asaas.com/)** como **Analista de Suporte Técnico Pleno em Sucesso de Integrações**, trabalhando diretamente com integração de sistemas, APIs REST, webhooks, troubleshooting, análise de incidentes, observabilidade e confiabilidade de aplicações em produção.
 
-Também atuo em iniciativas de **Developer Relations**, aproximando tecnologia, produto e comunidade dev. Minha missão é simplificar integrações, traduzir problemas complexos e melhorar a experiência de quem utiliza APIs. 🚀
+Minha atuação vai além de resolver o erro apresentado: investigo o fluxo ponta a ponta para entender onde está a inconsistência — integração, aplicação, dados, regra de negócio ou implementação — usando requisições HTTP, logs, SQL, Datadog, Databricks, Postman, documentação técnica e, quando necessário, análise de código.
+
+Também atuo em iniciativas de **Developer Relations**, aproximando tecnologia, produto e comunidade dev — seja representando o Asaas em eventos como a Codecon, seja construindo espaços de troca com a comunidade, como o canal de eventos e hackathons que criei no Discord do Asaas. Minha missão é simplificar integrações, traduzir problemas complexos e melhorar a experiência de quem utiliza APIs. 🚀
 
 ---
 
 ## 🌐 Áreas de atuação
 
-* Integrações e APIs REST;
-* Webhooks, autenticação e segurança de integrações;
-* Análise de respostas HTTP e diagnóstico de incidentes;
-* Testes e validações com Postman e Insomnia;
-* Consultas SQL para investigação técnica;
-* Documentação técnica para pessoas desenvolvedoras;
-* Comunicação técnica e apoio à comunidade dev;
-* Interface entre clientes, produto e engenharia.
+* Integrações e APIs REST, JSON, HTTP e autenticação entre sistemas;
+* Webhooks, processamento assíncrono, retries, idempotência e concorrência;
+* Troubleshooting e análise de causa raiz de incidentes complexos;
+* Observabilidade e confiabilidade de aplicações em produção (Datadog, Databricks);
+* Consultas SQL e análise de logs para investigação técnica;
+* Testes, reprodução e validação com Postman e Insomnia;
+* Documentação técnica de endpoints, regras de negócio e guias de integração;
+* Interface técnica entre clientes integradores, Engenharia, Produto e CX;
+* Comunicação técnica e construção de comunidade dev (DevRel).
+
+---
+
+## 📊 Impacto
+
+* Apoio a mais de **100 cenários críticos** ou de alta volumetria;
+* Contribuição para redução superior a **60% na recorrência** de determinados problemas;
+* Desenvolvimento de **dashboards** que ampliaram a autonomia de outras equipes;
+* Criação e revisão contínua de **documentação técnica** para APIs e integrações;
+* Participação como staff em eventos tech representando o Asaas (Codecon) e criação de iniciativas de comunidade, como o canal de eventos e hackathons no Discord do Asaas.
 
 ---
 
@@ -42,6 +55,7 @@ Também atuo em iniciativas de **Developer Relations**, aproximando tecnologia, 
   <img src="https://img.shields.io/badge/Webhooks-000000?style=for-the-badge&logo=hookdeck&logoColor=white" alt="Webhooks" />
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" alt="Datadog" />
   <img src="https://img.shields.io/badge/Databricks-E25A1C?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" />
   <img src="https://img.shields.io/badge/Documentação_Técnica-2F80ED?style=for-the-badge" alt="Documentação técnica" />
   <img src="https://img.shields.io/badge/DevRel-67CB57?style=for-the-badge" alt="DevRel" />
@@ -168,7 +182,6 @@ Atualmente, direciono meus estudos para **Java, Spring Boot, estruturas de dados
   >
 </picture>
 
-
 ---
 
 ## ✨ Meu propósito
@@ -179,7 +192,7 @@ Atualmente, direciono meus estudos para **Java, Spring Boot, estruturas de dados
 
 ## ⚡ Além do código
 
-* 🐾 Sou mãe de **11 gatos**;
+* 🐾 Sou mãe de **13 gatos**;
 * ❤️ Gosto de transformar problemas técnicos em explicações acessíveis;
 * 🌱 Tenho grande interesse por APIs, experiência do cliente, documentação e comunidades de tecnologia.
 
